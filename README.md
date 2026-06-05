@@ -22,9 +22,9 @@ I am specializing in modern web technologies and scalable applications.
 
 ---
 
-### Featured Project
-
 #### Chemnitz Map — Kulturhauptstadt 2025 Platform  
+**Built without AI support!**
+
 **Tech:** Angular · Express · MongoDB · Self-hosted Server
 
 A gamified, location-based, multi-user web platform developed for Kulturhauptstadt Chemnitz 2025.
