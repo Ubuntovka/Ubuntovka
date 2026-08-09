@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Mariia 👋  
-Full-Stack Developer | M.Sc. Student in Web Engineering | Germany 🇩🇪
-
-I am specializing in modern web technologies and scalable applications.
+Software Engineer | M.Sc. Student in Web Engineering | Germany 🇩🇪
 
 ---
 
