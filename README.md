@@ -34,4 +34,4 @@ A gamified, location-based, multi-user web platform developed for Kulturhauptsta
 
 ---
 
-Feel free to contact me for collaboration, internships, working student positions, or full-time opportunities. 😊
+Feel free to contact me for collaboration or full-time opportunities. 😊
