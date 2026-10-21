@@ -15,21 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Mariia 👋  
+## Hi, I'm Mariia
 Software Engineer | M.Sc. Student in Web Engineering | Germany 🇩🇪
-
----
-
-#### Chemnitz Map — Kulturhauptstadt 2025 Platform  
-**Built without AI support!**
-
-**Tech:** Angular · Express · MongoDB · Self-hosted Server
-
-A gamified, location-based, multi-user web platform developed for Kulturhauptstadt Chemnitz 2025.
-
-🔗 Live: https://katsala.com/chemnitz-map/
-
-
----
 
 Feel free to contact me for collaboration or full-time opportunities. 😊
